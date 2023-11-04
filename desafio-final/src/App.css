@@ -1,8 +1,21 @@
-/*#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
-}*/
+#main-container{
+  display: flex;
+  height: 100vh;
+  width: 100%;
+}
+
+#black{
+  background-color: black;
+  height: 100vh;
+  width: 16%;
+}
+
+#container{
+  display: flex;
+  height: 100vh;
+  width: 84%;
+  background:linear-gradient(to bottom, #17A6E4 , black 75% ) ;
+}
+
 
 

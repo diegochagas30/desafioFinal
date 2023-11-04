@@ -5,7 +5,10 @@ function App() {
 
   return (
     <>
-     
+      <div id='main-container'>
+        <div id='black'></div>
+        <div id='container'></div>
+      </div>  
     </>
   )
 }
