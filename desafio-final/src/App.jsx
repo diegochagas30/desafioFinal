@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import './App.css'
+import Header from './Header.jsx'
 
 function App() {
 
@@ -7,7 +8,9 @@ function App() {
     <>
       <div id='main-container'>
         <div id='black'></div>
-        <div id='container'></div>
+        <div id='container'>
+          <Header/>
+        </div>
       </div>  
     </>
   )

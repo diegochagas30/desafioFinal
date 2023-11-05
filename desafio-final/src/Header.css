@@ -1,0 +1,41 @@
+#header-container{
+    display: flex;
+    height: 22%;
+    width: 100%;
+    margin-left: 5%;
+    margin-top: 10%;
+}
+
+#header-container p{
+    color: white;
+    font-weight: 700;
+    margin-top: 3%;
+    font-size: 2.3vh;  /*aproximadamente 17px em tela cheia*/
+}
+
+#header-container h1{
+    color: white;
+    font-weight: 700;
+    margin-top: 3%;
+    font-size: 6.3vh; /*aproximadamente 48px em tela cheia*/
+}
+
+#header-container img{
+    height: 100%;
+}
+
+#texts-container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1%;
+    margin-left: 3%;
+}
+
+#time{
+    color: rgba(255, 255, 255, 0.44);
+    margin-left: 3%;
+}
+
+
+
+
