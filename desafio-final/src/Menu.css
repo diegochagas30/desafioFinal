@@ -1,0 +1,32 @@
+#menu-container{
+    display: flex;
+    height: 5%;
+    width: 100%;
+    margin-top: 10%;
+    padding-left: 5%;
+}
+
+#menu-container span{
+    height: 100%;
+    margin-right: 1.5%;
+}
+
+#play_circle{
+    color: #3FE168;
+}
+
+#favorite{
+    color: #CCCCCC; 
+}
+
+#circle{
+    color: #CCCCCC; 
+}
+
+#arrow_circle_down{
+    color: #CCCCCC; 
+}
+
+
+
+
