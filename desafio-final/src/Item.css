@@ -1,0 +1,25 @@
+#item-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: auto;
+    width: 100%;
+    margin-top: 2%;
+    font-weight: 500;
+    font-size: 2.4vh; /*aproximadamente 18px em tela cheia*/
+    color: #CCCCCC;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#item-container #title{
+    margin-left: 1%;
+}
+
+#item-container #album{
+    margin-left: 45%;
+}
+
+#item-container #icons{
+    margin-left: 35%;
+}
